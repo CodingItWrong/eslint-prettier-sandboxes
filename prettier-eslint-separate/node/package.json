@@ -1,0 +1,11 @@
+{
+  "name": "node-prettier-eslint-separate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.27.0",
+    "eslint-config-prettier": "^8.3.0",
+    "prettier": "^2.3.0"
+  }
+}
